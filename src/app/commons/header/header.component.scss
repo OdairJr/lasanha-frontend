@@ -1,0 +1,15 @@
+@import '../../../styles/3-helpers/constants';
+
+header {
+  background-color: $primary-black;
+  padding: 20px;
+  text-align: center;
+
+  h1 {
+    color: #fff;
+    font-size: 24px;
+    font-weight: bold;
+    margin: 0;
+    text-align: left;
+  }
+}
